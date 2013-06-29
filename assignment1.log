@@ -1,0 +1,31 @@
+Hostname is : 
+webonise-desktop
+Thu Jun 27 17:04:04 IST 2013
+ 
+Type and Version of Operating System is : 
+Linux
+#46-Ubuntu SMP Fri Jul 27 17:03:23 UTC 2012
+Thu Jun 27 17:09:44 IST 2013
+ 
+Path of Home Directory is : 
+/home/webonise
+Thu Jun 27 17:13:04 IST 2013
+ 
+Users Logged In : 
+webonise tty7         2013-06-27 09:49
+webonise pts/0        2013-06-27 13:03 (:0.0)
+Thu Jun 27 17:15:11 IST 2013
+ 
+Groups : 
+webonise adm cdrom sudo dip plugdev lpadmin sambashare
+Thu Jun 27 17:16:52 IST 2013
+ 
+Files present in this directory excluding directories : 
+4	./command.sh~
+0	./a.txt
+0	./b.txt
+4	./assignment.log
+4	./command.sh
+0	./xabc.txt
+0	./xaaaa.txt
+Thu Jun 27 17:19:54 IST 2013
